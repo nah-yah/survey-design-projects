@@ -44,7 +44,7 @@ Les questionnaires publiés ici sont **fictifs** à des fins de démonstration.
 
 ### Contact
 
-- **LinkedIn** : [linkedin.com/in/woodnalie-s-joseph-aa0011175/]
+- **LinkedIn** : Woodnalie S. Joseph
 
 ---
 
@@ -83,7 +83,7 @@ The questionnaires published here are **fictional** for demonstration purposes.
 
 ### Contact
 
-- **LinkedIn** : [linkedin.com/in/woodnalie-s-joseph-aa0011175/]
+- **LinkedIn** : Woodnalie S. Joseph
 
 ---
 
@@ -123,4 +123,4 @@ Kesyonè ki pibliye isit la yo se kesyonè **fiktif** pou rezon demonstrasyon.
 
 ### Kontak
 
-- **LinkedIn** : [linkedin.com/in/woodnalie-s-joseph-aa0011175/]
+- **LinkedIn** : Woodnalie S. Joseph
