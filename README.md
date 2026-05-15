@@ -1,6 +1,5 @@
 # Survey Design Portfolio | Portfolio Conception d'Enquêtes | Pòtfolyo Konsepsyon Ankèt
 
-> **Author / Auteure / Otè** : [Your Name]  
 > **Focus / Domaine / Domèn** : Questionnaire design & data collection instruments  
 > **Tools / Outils / Zouti** : XLSForm · ONA · KoBoToolbox · Enketo
 

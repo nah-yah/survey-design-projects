@@ -98,6 +98,8 @@ enquete_eco_informelle_ouest_fad.xlsx
 
 Déployé sur ONA via Enketo. Compatible KoBoToolbox sans modification.
 
+Lien : https://enketo.ona.io/x/PUJdoDOI
+
 ---
 ---
 
@@ -189,3 +191,5 @@ enquete_eco_informelle_ouest_fad.xlsx
 ```
 
 Deplwaye sou ONA via Enketo. Konpatib ak KoBoToolbox san modifikasyon.
+
+Lyen: https://enketo.ona.io/x/PUJdoDOI
